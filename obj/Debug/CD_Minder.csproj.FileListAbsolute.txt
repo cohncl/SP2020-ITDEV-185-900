@@ -1,0 +1,11 @@
+C:\Users\Neil Michaels\source\repos\CD_Minder\bin\Debug\CD_Database.mdf
+C:\Users\Neil Michaels\source\repos\CD_Minder\bin\Debug\CD_Database_log.ldf
+C:\Users\Neil Michaels\source\repos\CD_Minder\bin\Debug\CD_Minder.exe.config
+C:\Users\Neil Michaels\source\repos\CD_Minder\bin\Debug\CD_Minder.exe
+C:\Users\Neil Michaels\source\repos\CD_Minder\bin\Debug\CD_Minder.pdb
+C:\Users\Neil Michaels\source\repos\CD_Minder\obj\Debug\CD_Minder.csprojAssemblyReference.cache
+C:\Users\Neil Michaels\source\repos\CD_Minder\obj\Debug\CD_Minder.Properties.Resources.resources
+C:\Users\Neil Michaels\source\repos\CD_Minder\obj\Debug\CD_Minder.csproj.GenerateResource.cache
+C:\Users\Neil Michaels\source\repos\CD_Minder\obj\Debug\CD_Minder.exe
+C:\Users\Neil Michaels\source\repos\CD_Minder\obj\Debug\CD_Minder.pdb
+C:\Users\Neil Michaels\source\repos\CD_Minder\obj\Debug\CD_Minder.frmMain.resources
